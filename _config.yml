@@ -14,7 +14,7 @@ bing-verify: ''
 disqus-shortname: myshortname
 color:
   primary: 00fdff
-  primary-rgb: '000000'
+  primary-rgb: '24,288,156'
   secondary: f5ec00
   secondary-dark: ff9300
 about:
